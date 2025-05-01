@@ -1,2 +1,6 @@
 python-telegram-bot==20.8
 aiosqlite
+telegram
+nest-asyncio
+sqlite3
+flask
