@@ -1,4 +1,4 @@
-sqlite3
+pysqlite3-binary
 python-telegram-bot==20.8
 aiosqlite
 telegram
