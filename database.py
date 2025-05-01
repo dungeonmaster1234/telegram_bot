@@ -1,5 +1,5 @@
 # database.py (вставьте сюда код из предыдущего сообщения)
-import sqlite3
+import pysqlite3 as sqlite3
 import logging
 
 DB_NAME = 'bot_database.db'
