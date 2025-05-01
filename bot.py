@@ -1,5 +1,6 @@
 # bot.py (вставьте сюда код из предыдущего сообщения)
 import logging
+import pysqlite3 as sqlite3
 import asyncio
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (ApplicationBuilder, CommandHandler, MessageHandler,
